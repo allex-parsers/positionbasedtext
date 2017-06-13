@@ -1,0 +1,22 @@
+{
+  "name": "allex_positionbasedtextparser",
+  "version": "1.0.0",
+  "description": "AllexJS parser for \"fixedlengthtext-alike\" parsers, that parse like fixedlength but delimit as variablelength text",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.hers.rs:allex_parsers/positionbasedtext"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "position",
+    "based",
+    "text",
+    "parser"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
