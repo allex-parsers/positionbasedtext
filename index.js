@@ -1,5 +1,5 @@
 function createLib (execlib) {
-  return execlib.loadDependencies('client', ['allex:base:parser', 'allex:positionbasedprocessing:parser'], createPositionBasedParser.bind(null, execlib));
+  return execlib.loadDependencies('client', ['allex_baseparser', 'allex_positionbasedprocessingparser'], createPositionBasedParser.bind(null, execlib));
 }
 
 function createPositionBasedParser (execlib, BaseParser, PositionBasedProcessor) {
