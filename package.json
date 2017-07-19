@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.hers.rs:allex_parsers/positionbasedtext"
+    "url": "git@github.com:allex-parsers/positionbasedtext.git"
   },
   "keywords": [
     "ecosystem:AllexJS",
